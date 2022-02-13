@@ -4,11 +4,11 @@ font-weight: normal;
 font-size: 18px;
 line-height: 20px;
 color: #FFFFFF;
+text-decoration: none;
 }
 
 .header__lang-link:last-of-type {
   margin-left: 18px;
-  text-decoration: none;
 }
 
 @media (min-width: 768px) {
